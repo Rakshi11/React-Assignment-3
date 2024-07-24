@@ -1,0 +1,20 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Movie 1",
+      "posterPath": "images/poster1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Movie 2",
+      "posterPath": "images/poster2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Movie 3",
+      "posterPath": "images/poster3.jpg"
+    }
+  ],
+  "favourites": []
+}

@@ -1,0 +1,33 @@
+body {
+  padding: 20px;
+  margin: 0;
+  background-color: #72a5d8; /* Light background color */
+}
+
+/* Container padding */
+.container {
+  padding: 20px;
+  background-color: #fcf6f6; /* White background for the container */
+  border-radius: 8px; /* Rounded corners for the container */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Padding for lists */
+#moviesList, #favouritesList {
+  padding: 10px;
+  list-style-type: none;
+}
+
+/* Padding and margin for list items */
+.list-group-item {
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px; /* Rounded corners for list items */
+  background-color: #ffffff; /* White background for list items */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Padding for buttons */
+.btn {
+  padding: 5px 10px;
+}
